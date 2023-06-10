@@ -187,7 +187,7 @@ def hesap_makinesi():
                     continue
 
         print("Sonuç: ", sonuc)
-        print("Bitti")
+        print("Bitti...")
 
 
 hesap_makinesi()
