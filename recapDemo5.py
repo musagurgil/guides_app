@@ -1,4 +1,4 @@
-import syslog
+import sys
 
 liste = ['a', 'b', 'c', 'd', 'e', 0, 1, 2, 3, 4, 5, 6, '6']
 
@@ -9,3 +9,4 @@ for x in liste:
         print("Sonuç :" + str(sonuc))
     except:
         print(str(x) + " Hesaplanamadı. ")
+        print("Sistem diyor ki: " + str(sys.exc_info()[0]))
