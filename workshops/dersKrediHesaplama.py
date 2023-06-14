@@ -26,3 +26,26 @@ def not_hesapla():
 
 
 not_hesapla()
+
+#README
+
+### Not Hesaplama
+# Bu, kullanıcının girdiği derslerin kredilerini ve not ortalamalarını kullanarak genel not ortalamasını hesaplayan bir Python programıdır.
+
+### Nasıl Çalışır
+# 1. Program başlatıldığında, kullanıcıdan ders sayısını girmesi istenir.
+# 2. Ardından, her bir ders için ders adı, kredi ve not ortalaması bilgileri istenir.
+# 3. Girilen bilgiler dersler, krediler ve notlar listelerine kaydedilir.
+# 4. Toplam kredi miktarı hesaplanır ve toplam kredi ile ders kredileri ve not ortalamaları kullanılarak genel not ortalaması hesaplanır.
+# 5. Sonuç, genel not ortalaması olarak ekrana yazdırılır.
+
+### Kullanım
+# 1. Programı çalıştırın.
+# 2. İstenilen ders sayısını girin.
+# 3. Her ders için ders adını, krediyi ve not ortalamasını girin.
+# 4. Program, genel not ortalamasını ekrana yazdıracaktır.
+
+### Kaynaklar
+# Bu program, Python programlama dilinin temel veri yapıları ve döngüleri kullanılarak geliştirilmiştir.
+
+#Musa Gürgil 15.06.2023

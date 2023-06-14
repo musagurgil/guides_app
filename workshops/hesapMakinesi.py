@@ -88,3 +88,55 @@ def hesap_makinesi():
         print("Sonuç: ", sonuc)
 
 hesap_makinesi()
+
+#README
+
+### Hesap Makinesi
+# Bu Python programı, kullanıcının basit matematiksel işlemler yapmasını sağlayan bir hesap makinesi uygulamasıdır.
+
+### İşlemler
+# Hesap makinesi aşağıdaki işlemleri destekler:
+# - Toplama
+# - Çıkarma
+# - Çarpma
+# - Bölme
+# - Kare alma
+# - Karekök alma
+# - Faktöriyel hesaplama
+
+### Kullanım
+# 1. Programı çalıştırın.
+# 2. İstenilen işlemi seçin.
+# 3. İşleme göre gerekli sayıları girin.
+# 4. Sonuç ekrana yazdırılır.
+# 5. İşlem seçme menüsüne dönerek başka bir işlem seçebilirsiniz.
+# 6. Çıkış seçeneği ile programı sonlandırabilirsiniz.
+
+### Sınırlamalar
+# - Bölme işlemi sırasında sıfıra bölme hatası kontrol edilir ve hata mesajı verilir.
+# - Negatif sayıların faktöriyeli hesaplanamaz ve hata mesajı verilir.
+
+### Örnek
+# Örnek giriş ve çıkış:
+# Hesap Makinesi
+# İşlem Seçin:
+# Toplama
+# Çıkarma
+# Çarpma
+# Bölme
+# Kare
+# Karekök
+# Faktöriyel
+# Çıkış
+# Seçiminizi yapın (1-8): 1
+# Kaç sayıyla işlem yapmak istiyorsunuz? 3
+# sayıyı girin: 5
+# sayıyı girin: 7
+# sayıyı girin: 3
+# Sonuç: 15.0
+# Bu örnekte, kullanıcı tarafından seçilen işlem toplama (1) olarak belirlenmiştir. Ardından, 5, 7 ve 3 sayıları girilerek toplama işlemi yapılmış ve sonuç 15.0 olarak elde edilmiştir.
+
+### Kaynaklar
+# Bu program, Python dilinde döngülerin, koşullu ifadelerin ve matematik modülünün kullanımını içermektedir.
+
+#Musa Gürgil 15.06.2023

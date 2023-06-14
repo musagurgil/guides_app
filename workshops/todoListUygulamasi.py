@@ -45,3 +45,29 @@ def todo_list():
         print()
 
 todo_list()
+
+#README
+
+### To-Do List Uygulaması
+# Bu Python programı, kullanıcının yapılacaklar listesi oluşturmasına ve yönetmesine olanak sağlayan basit bir To-Do List uygulamasıdır.
+
+### Kullanım
+# 1. Programı çalıştırın.
+# 2. Menüden yapmak istediğiniz işlemi seçin:
+#    - **1. Görevleri Listele**: Mevcut görevleri listeler.
+#    - **2. Görev Ekle**: Yeni bir görev ekler.
+#    - **3. Görev Tamamla**: Tamamlanan bir görevi işaretler.
+#    - **4. Çıkış**: Uygulamadan çıkar.
+# 3. İlgili seçeneği seçtikten sonra, gerekli girişleri yapın veya talimatları izleyin.
+# 4. Program, işlemi gerçekleştirir ve sonuçları ekrana yazdırır.
+
+### Sınırlamalar
+# - Program, kullanıcının sadece menüde belirtilen seçenekleri girmesini bekler. Geçersiz seçenekler için hata mesajı verilebilir.
+# - Programın mevcut sürümünde, görevler sadece metin tabanlı olarak saklanır ve her çalıştırmada sıfırlanır.
+
+### Kaynaklar
+# Bu program, Python'ın temel kontrol yapıları ve listeler gibi dil özelliklerini kullanarak bir To-Do List uygulaması oluşturur.
+
+#Musa Gürgil 15.06.2023
+
+

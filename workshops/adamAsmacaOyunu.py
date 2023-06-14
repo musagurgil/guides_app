@@ -49,3 +49,24 @@ def adam_asmaca():
 
 adam_asmaca()
 
+#README
+
+### Adam Asmaca Oyunu
+# Bu, Python ile geliştirilmiş basit bir Adam Asmaca oyunudur. Oyunda rastgele seçilen bir kelimeyi tahmin etmeye çalışırsınız. Her yanlış tahminde, asılan bir adamın görseli oluşturulur.
+
+### Kurulum
+# Oyunu çalıştırmak için Python 3'e ve `random` modülüne ihtiyacınız vardır. İlgili bağımlılıkları kurmak için aşağıdaki komutu kullanabilirsiniz:
+
+
+### Nasıl Oynanır
+# 1. Oyunu başlatmak için `adam_asmaca()` fonksiyonunu çalıştırın.
+# 2. Oyunda rastgele seçilen bir kelime belirlenir ve "_" karakterleriyle temsil edilir.
+# 3. Sırasıyla harf tahminleri yapın. Yalnızca bir harf girebilirsiniz.
+# 4. Doğru tahminlerde, kelimenin doğru yerlerinde harfler gösterilir.
+# 5. Yanlış tahminlerde, hakkınız bir azalır.
+# 6. Oyun devam eder ve doğru kelimeyi tahmin edene kadar veya hakkınız tükenene kadar devam eder.
+
+### Kaynaklar
+# Bu oyun, Python programlama dilinin temel özelliklerini ve döngülerini kullanarak geliştirilmiştir.
+
+#Musa Gürgil 15.06.2023
